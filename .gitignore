@@ -1,0 +1,4 @@
+data/
+*.csv
+youtube_trending_videos_global.csv
+venv
